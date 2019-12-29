@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pkg_people version="0.1">
+    <Package>BDT</Package>
+    <PKG_LLC>
+      <BROADCAST_GENERATION>9090</BROADCAST_GENERATION>
+      <Output_Type>PKG</Output_Type>
+      <PACKAGE_VERSION>040392450</PACKAGE_VERSION>
+      <PKG_JIRA_ID>PKG-1245</PKG_JIRA_ID>
+      <PKG_TYPE>BDT</PKG_TYPE>
+      <REPLACE_BUILD_ID>XXM.5926789.001.M</REPLACE_BUILD_ID>
+    </PKG_LLC>
+</pkg_people>
